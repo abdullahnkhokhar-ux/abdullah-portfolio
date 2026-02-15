@@ -159,7 +159,7 @@ function App() {
       {/* Footer */}
       <footer className="footer">
         <p>© {new Date().getFullYear()} Abdullah Naeem. All rights reserved.</p>
-        <p className="footer-subtitle">Built with React 🚀</p>
+        <p className="footer-subtitle">Built with React </p>
       </footer>
     </div>
   );
