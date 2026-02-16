@@ -6,7 +6,7 @@ function About() {
       <div className="about-image">
         <img 
           src="/profile.jpg" 
-          alt="Abdullah Naeem" 
+          alt="Abdullah Naeem - AI Student at SZABIST Islamabad specializing in Machine Learning and Artificial Intelligence" 
           className="profile-pic"
           onError={(e) => {
             e.target.src = 'https://via.placeholder.com/300x300/0a0e27/00f5ff?text=AN';
