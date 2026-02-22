@@ -3,6 +3,20 @@ import React from 'react';
 function Projects() {
   const projects = [
     {
+      title: "Credit Scoring Model",
+      description: "Machine learning-based credit scoring system developed with Python. Analyzes financial data to predict creditworthiness using classification algorithms, feature engineering, and model evaluation techniques for accurate risk assessment.",
+      tags: ["Python", "Machine Learning", "Classification", "Data Science"],
+      link: "https://drive.google.com/drive/folders/1erx8ASTglIX7RCiQeDAIs6Js7AOH3BEy?usp=sharing",
+      linkText: "View Project"
+    },
+    {
+      title: "Handwritten Digit Recognition",
+      description: "Python-based machine learning system for recognizing handwritten digits using neural networks. Implements deep learning models trained on MNIST dataset with high accuracy for digit classification and OCR applications.",
+      tags: ["Python", "Deep Learning", "Neural Networks", "Computer Vision"],
+      link: "https://drive.google.com/drive/folders/1erx8ASTglIX7RCiQeDAIs6Js7AOH3BEy?usp=sharing",
+      linkText: "View Project"
+    },
+    {
       title: "Depression Detection System",
       description: "Python-based machine learning system that analyzes user input to detect signs of depression. Implements NLP techniques and sentiment analysis for mental health assessment.",
       tags: ["Python", "Machine Learning", "NLP", "Mental Health"],
