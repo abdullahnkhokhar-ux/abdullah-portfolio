@@ -30,7 +30,7 @@ function Experience() {
       title: "E-commerce Entrepreneur",
       company: "Epicurean Blends",
       duration: "2025 - Present",
-      description: "Founded and manage a Shopify-based e-commerce platform specializing in premium herbal products. Handle everything from product sourcing, branding, digital marketing, to customer service and business operations.",
+      description: "Founded and manage a next.js-based built by myself e-commerce platform specializing in premium herbal products. Handle everything from product sourcing, branding, digital marketing, to customer service and business operations.",
       link: "https://www.epicureanblends.com",
       linkText: "Visit Website"
     }
