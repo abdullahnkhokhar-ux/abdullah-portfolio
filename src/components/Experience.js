@@ -28,7 +28,7 @@ function Experience() {
     {
       title: "Fundraising & Event Management",
       company: "Bondh-e-Shams Solar Water Project",
-      duration: "2024",
+      duration: "June 2024 - Aug 2024 (2 months)",
       description: "Led fundraising initiatives and coordinated event management for renewable energy solutions. Managed community outreach programs and organized events to promote sustainable solar water heating technology.",
       links: [
         {
