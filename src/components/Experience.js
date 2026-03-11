@@ -5,7 +5,7 @@ function Experience() {
     {
       title: "Machine Learning Intern",
       company: "CodeAlpha",
-      duration: "Feb 2026 - Mar 2026 (1 month)",
+      duration: "2026",
       description: "Worked on machine learning projects, implemented various ML algorithms, and developed data-driven solutions. Gained hands-on experience with Python libraries and model development.",
       links: [
         {
@@ -28,7 +28,7 @@ function Experience() {
     {
       title: "Fundraising & Event Management",
       company: "Bondh-e-Shams Solar Water Project",
-      duration: "July 2024 - Aug 2024 (2 months)",
+      duration: "2024",
       description: "Led fundraising initiatives and coordinated event management for renewable energy solutions. Managed community outreach programs and organized events to promote sustainable solar water heating technology.",
       links: [
         {
