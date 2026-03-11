@@ -6,7 +6,7 @@ function Experience() {
       title: "Machine Learning Intern",
       company: "CodeAlpha",
       duration: "Feb 2026 - Mar 2026 (1 month)",
-      description: "Working on machine learning projects, implementing various ML algorithms, and developing data-driven solutions. Gaining hands-on experience with Python libraries and model development.",
+      description: "Worked on machine learning projects, implementing various ML algorithms, and developing data-driven solutions. Gaining hands-on experience with Python libraries and model development.",
       links: [
         {
           url: "https://drive.google.com/file/d/1on9GPtYGXyarkQg0e1RPtnzNpNFVZS4B/view?usp=drivesdk",
