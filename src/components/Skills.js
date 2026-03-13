@@ -8,8 +8,6 @@ function Skills() {
         { name: "Python", level: "80%" },
         { name: "C++", level: "90%" },
         { name: "HTML/CSS", level: "75%" },
-        { name: "React.js", level: "50%" },
-        { name: "Next.js", level: "50%" },
       ]
     },
     {
@@ -18,6 +16,8 @@ function Skills() {
         { name: "Machine Learning", level: "70%" },
         { name: "Data Science", level: "75%" },
         { name: "IoT & Arduino", level: "80%" },
+        { name: "React.js", level: "50%" },
+        { name: "Next.js", level: "50%" },
       ]
     },
     {
