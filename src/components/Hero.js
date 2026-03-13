@@ -30,7 +30,7 @@ function Hero() {
            className="btn-secondary" 
            target="_blank" 
            rel="noopener noreferrer">
-          📄 Download CV
+           Download CV
         </a>
         <a href="#contact" className="btn-secondary">Get In Touch</a>
       </div>
