@@ -5,9 +5,11 @@ function Skills() {
     {
       category: "Programming Languages",
       skills: [
-        { name: "Python", level: "85%" },
-        { name: "C++", level: "80%" },
+        { name: "Python", level: "80%" },
+        { name: "C++", level: "90%" },
         { name: "HTML/CSS", level: "75%" },
+        { name: "React.js", level: "50%" },
+        { name: "Next.js", level: "50%" },
       ]
     },
     {
