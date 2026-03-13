@@ -21,7 +21,7 @@ function Experience() {
     {
       title: "SEO Intern",
       company: "Web Maven",
-      duration: "Jan 2026 - Apr 2026 (3 months)",
+      duration: "Feb 2026 - Apr 2026 (3 months)",
       description: "Learning and implementing SEO strategies, conducting keyword research, optimizing website content, and analyzing performance metrics using tools like Google Analytics and Search Console.",
       links: []
     },
