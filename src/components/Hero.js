@@ -27,7 +27,7 @@ function Hero() {
       <div className="hero-buttons">
         <a href="#projects" className="btn-primary">View My Work</a>
         <a href="#contact" className="btn-secondary">Get In Touch</a>
-        <a href="https://drive.google.com/file/d/18hOJpymFE1u1OD5l7-rTFHNPLAXhS_YP/view?usp=drive_link" className="btn-secondary">Download CV</a
+        <a href="https://drive.google.com/file/d/18hOJpymFE1u1OD5l7-rTFHNPLAXhS_YP/view?usp=drive_link"> </a> className="btn-secondary">Download CV</a
       </div>
     </section>
   );
