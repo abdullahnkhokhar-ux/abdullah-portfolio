@@ -1172,10 +1172,10 @@ section:nth-child(3) { animation-delay: 0.3s; }
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.625rem 1.25rem;
-  background: rgba(0, 255, 136, 0.05);
-  border: 1px solid rgba(0, 255, 136, 0.2);
-  border-radius: 0.5rem;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
   color: var(--accent);
   font-size: 0.875rem;
   font-weight: 600;
@@ -1184,10 +1184,8 @@ section:nth-child(3) { animation-delay: 0.3s; }
 }
 
 .cert-links .cert-link:hover {
-  background: rgba(0, 255, 136, 0.1);
-  border-color: var(--accent);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 255, 136, 0.2);
+  color: var(--text-primary);
+  transform: translateX(4px);
 }
 .timeline-item .duration {
   font-size: 0.9375rem;
